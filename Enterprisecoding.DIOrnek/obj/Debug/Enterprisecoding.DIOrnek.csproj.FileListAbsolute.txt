@@ -1,0 +1,11 @@
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\bin\Debug\DIOrnek.exe.config
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\bin\Debug\DIOrnek.exe
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\bin\Debug\DIOrnek.pdb
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\bin\Debug\DIOrnek.Domain.dll
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\bin\Debug\Ninject.dll
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\bin\Debug\DIOrnek.Domain.pdb
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\bin\Debug\Ninject.xml
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\obj\Debug\Enterprisecoding.DIOrnek.csprojResolveAssemblyReference.cache
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\obj\Debug\DIOrnek.exe
+D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek\obj\Debug\DIOrnek.pdb
+C:\Users\kullanici\Documents\GitHub\DIOrnek\DIOrnek\Enterprisecoding.DIOrnek\bin\Debug\DIOrnek.exe.config
