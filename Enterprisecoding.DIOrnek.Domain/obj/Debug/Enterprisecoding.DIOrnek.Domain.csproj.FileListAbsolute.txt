@@ -1,4 +1,0 @@
-D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek.Domain\bin\Debug\DIOrnek.Domain.dll
-D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek.Domain\bin\Debug\DIOrnek.Domain.pdb
-D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek.Domain\obj\Debug\DIOrnek.Domain.dll
-D:\Users\44185273330\Documents\Visual Studio 2013\Projects\Enterprisecoding.DIOrnek\Enterprisecoding.DIOrnek.Domain\obj\Debug\DIOrnek.Domain.pdb
